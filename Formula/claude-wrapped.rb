@@ -3,8 +3,8 @@ class ClaudeWrapped < Formula
 
   desc "Your year with Claude Code, Spotify Wrapped style"
   homepage "https://github.com/da-troll/claude-code-wrapped"
-  url "https://files.pythonhosted.org/packages/source/c/claude-wrapped/claude-wrapped-0.1.11.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  url "https://files.pythonhosted.org/packages/source/c/claude-wrapped/claude-wrapped-0.1.12.tar.gz"
+  sha256 "fc619efc5b9a46253bff1cf91a24ee493a2fa22e8a54d8a771949a282d494456"
   license "MIT"
 
   depends_on "python@3.13"
