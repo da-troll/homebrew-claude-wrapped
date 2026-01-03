@@ -2,9 +2,9 @@ class ClaudeWrapped < Formula
   include Language::Python::Virtualenv
 
   desc "Your year with Claude Code, Spotify Wrapped style"
-  homepage "https://github.com/da-troll/claude-code-wrapped"
-  url "https://files.pythonhosted.org/packages/source/c/claude-wrapped/claude-wrapped-0.1.13.tar.gz"
-  sha256 "d7d79b368a9a3111376f1a6298ea7d60298f14f164ec5f580a71dd2b93a39f34"
+  homepage "https://github.com/da-troll/claude-wrapped"
+  url "https://files.pythonhosted.org/packages/source/c/claude-wrapped/claude-wrapped-1.0.0.tar.gz"
+  sha256 "b07aebb1a2baa66f8fef34825faa89d1ad7385d152e74590487593a3914629db"
   license "MIT"
 
   depends_on "python@3.13"
